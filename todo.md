@@ -324,3 +324,22 @@ npm install --save d3
 
 npm install --save react-addons-test-utils
 npm install --save redux
+
+
+-- CONFIG setup update
+
+- Install yarn (use it instead of npm)
+npm install -g yarn
+sudo ln -s /opt/node/node-v6.9.1-linux-x64/lib/node_modules/yarn/bin/yarn /usr/local/bin/yarn
+
+
+
+
+
+-- Creating custom neutrino preset
+https://neutrino.js.org/presets/neutrino-lint-base/
+https://davidwalsh.name/neutrino-linting
+
+
+yarn add neutrino-lint-base
+
